@@ -1,0 +1,46 @@
+*{
+    background-color: aquamarine;
+}
+h1{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: lightgrey;
+    width: 140px;
+    height: 50px;
+    padding: 10px 10px 10px;
+}
+
+p{
+    width:800px;
+    height:50px;
+    margin-left:auto;
+    margin-right:auto;
+
+}
+.text{
+    background-color: lightpink;
+    width: 100px;
+    height: 30px;
+    margin-left:245px;
+    margin-right:10px;
+    
+}
+
+.img{ 
+    max-width:100%;
+    width: 300px;
+    height: 200px;
+    margin-left:50px;
+    margin-right:10px;
+    background-color: lightcoral;
+    padding: 10px 10px 10px;
+    
+
+}
+
+[href] {
+    background-color: papayawhip;
+    
+}
+
+
