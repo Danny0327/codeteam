@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: papayawhip;
+    color: brown;
+    margin-top: 100px;
+    background-color: lightsalmon;
+    width: 300px;
+    height: 300px;
+    color: black;
+    overflow-y: scroll;
+}
